@@ -1,0 +1,17 @@
+name = "gmlewis/fonts-u"
+
+version = "0.19.10"
+
+import {
+  "gmlewis/fonts@0.19.10",
+}
+
+readme = "README.md"
+
+repository = "https://github.com/gmlewis/mbt-fonts-u"
+
+license = "Apache-2.0"
+
+keywords = [ "html5 canvas", "pdf", "svg", "open source", "fonts" ]
+
+description = "A collection of hard-coded font data in MoonBit with font names starting with 'u'."
